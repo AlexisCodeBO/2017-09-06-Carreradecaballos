@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+I:\Alexis\SISTEMAS OPERATIVOS\Sistemas Operativos (ISI-204)\Java\2017-09-06 Carreradecaballos\.metadata\.plugins\org.eclipse.jdt.core
+917191388.index
